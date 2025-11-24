@@ -56,26 +56,6 @@ I'm **Vinay Gupta**, an AI engineer focused on building **LLM-powered apps, mult
 
 ---
 
-## 📊 **GitHub Analytics**
-
-### 🔥 Stats & Languages
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iamrealvinnu&show_icons=true&count_private=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrealvinnu&layout=compact&theme=tokyonight" />
-</p>
-
-### 🔥 Streak Stats
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=iamrealvinnu&theme=tokyonight" />
-</p>
-
-### 🚀 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrealvinnu&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
 ## ⭐ **Top Projects**
 
 ### **📝 autocorrect-tool**
