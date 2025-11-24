@@ -1,105 +1,97 @@
-<!-- Gradient Banner -->
+<!-- ============================================ -->
+<!--              CUSTOM GRADIENT BANNER          -->
+<!-- ============================================ -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0066ff&height=220&section=header&text=Vinay%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://img.shields.io/badge/PRINCIPAL%20AI%20%26%20DATA%20SCIENCE%20ENGINEER-%F0%9F%94%A5-purple?style=for-the-badge&logo=ai&logoColor=white&labelColor=000&color=7918F2&cacheSeconds=300" />
 </p>
 
-<h2 align="center">AI Engineer • LLMs • GenAI • Multi-Agent Systems</h2>
-
 <p align="center">
-  Passionate about AI, LLMs, Neural Networks & Agentic Systems.<br/>
-  Turning complex ideas into working systems. Building the future — one model at a time.
-</p>
-
----
-
-## 🏅 **Badges & Highlights**
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-AI%20Engineer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Developer%20Program-Member-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Followers-4-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stars-65-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Bengaluru-red?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=3000&pause=1400&color=00E0FF&center=true&vCenter=true&width=900&lines=VINAY+GUPTA+%E2%80%A2+iamrealvinnu;Principal+AI+%26+Data+Science+Engineer;LLMs+%7C+GenAI+%7C+Multi-Agent+Systems;Building+AI+Systems+That+Think+%26+Scale" />
 </p>
 
 ---
 
-## 👋 **About Me**
+<!-- ============================================ -->
+<!--      ANIMATED PROFILE GIF (Top Right)        -->
+<!-- ============================================ -->
 
-I'm **Vinay Gupta**, an AI engineer focused on building **LLM-powered apps, multi-agent systems, NLP pipelines, ML apps, and end-to-end AI products**.
-
-🔹 Member of **GDI Nexus**  
-🔹 MSc IT (AI/ML) — Garden City University  
-🔹 38+ public & private repositories  
-🔹 65+ stars, 4 followers  
-🔹 Working across **AI, ML.NET, Python, JS/TS, FastAPI, React**  
-🔹 Exploring **Agents, RAG, embeddings, reasoning optimization**
-
-💡 My philosophy:  
-**"Intelligence is everywhere now — execution is the real moat."**
-
----
-
-## ⚡ **Tech Stack**
-
-### **AI / ML**
-`PyTorch` • `Transformers` • `HuggingFace` • `ML.NET` • `scikit-learn`  
-`LSTMs` • `RAG` • `Embeddings` • `Agents`  
-
-### **Backend**
-`FastAPI` • `Flask` • `Node.js` • `Express.js`  
-
-### **Frontend**
-`React` • `Next.js` • `TypeScript` • `Tailwind`  
-
-### **Tools & Platforms**
-`Docker` • `GitHub Actions` • `Firebase` • `Vercel`  
-
----
-
-## 📊 **GitHub Analytics**
-
-### 🔥 Stats & Languages
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iamrealvinnu&show_icons=true&count_private=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrealvinnu&layout=compact&theme=tokyonight" />
-</p>
-
-### 🔥 Streak Stats
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=iamrealvinnu&theme=tokyonight" />
-</p>
-
-### 🚀 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrealvinnu&theme=react-dark&hide_border=true&area=true" />
+<p align="right">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="180" />
 </p>
 
 ---
 
-## ⭐ **Top Projects**
+# 👨‍💻 **Vinay Gupta**  
+## 🚀 *Principal AI & Data Science Engineer*
 
-### **📝 autocorrect-tool**
-T5-based grammar & spell correction with GUI + clipboard support.
+AI Engineer specializing in **LLMs, Generative AI, Agentic Systems, NLP Pipelines, AI Automation, and ML Products**.
 
-### **🌍 TranslatorApp**
-Voice and text translation, smart detection, mini mode.
+I don’t build "AI demos".  
+I build **AI systems that ship → break → scale → automate.**
 
-### **🔐 NeuralPassShield**
-LSTM-powered strong password generator.
-
-### **🩺 MediPredict**
-ML models (SVM, RF, NB) for disease prediction.
-
-### **⚕ Mini-ML Health Predictor**
-Symptom-based ML disease predictor.
-
-### **🧠 SentenceSimilarityExample**
-ML.NET sentence similarity using Model Builder.
+🔹 MSc IT (AI/ML), Garden City University  
+🔹 AI x ML.NET x Python x JS/TS  
+🔹 65+ Stars • 4 Followers • 39 Repositories  
+🔹 Developer Program Member  
 
 ---
 
-## 🧩 **Recent Projects** *(From your GitHub)*
+# 🏆 **Principal AI Engineer – Signature Card**
 
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=Principal%20AI%20Engineer%20%7C%20Vinay%20Gupta&width=900&height=180" />
+</p>
+
+---
+
+# 🧠 **Tech Mastery**
+
+### 🧬 AI / ML  
+`PyTorch` • `Transformers` • `HuggingFace` • `ML.NET` • `RAG` • `Embeddings`  
+`Neural Networks` • `Agents` • `NLP Pipelines` • `Reasoning Systems`
+
+### 🖥️ Backend  
+`FastAPI` • `Flask` • `Node.js` • `Express.js`
+
+### 🎨 Frontend  
+`React` • `Next.js` • `TypeScript` • `TailwindCSS`
+
+### ⚙️ Tools  
+`Docker` • `Firebase` • `GitHub Actions` • `Vercel`
+
+---
+
+# 📊 **GitHub Analytics (With Your Real Heatmap Colors)**
+
+### 🔥 Stats Overview
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamrealvinnu&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrealvinnu&layout=compact&theme=react&hide_border=true" />
+</p>
+
+### 🔥 Streak Stats (Custom Flame Theme)
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=iamrealvinnu&theme=react&hide_border=true&ring=00E0FF&fire=FF007F&currStreakLabel=00E0FF" />
+</p>
+
+### 🗺️ Contribution Graph (Tokyo Night Heatmap)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrealvinnu&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+---
+
+# ⭐ **Featured AI Projects**
+
+### 🧠 AI & ML
+- **autocorrect-tool** — T5-based grammar & spell correction  
+- **NeuralPassShield** — LSTM neural password generator  
+- **MediPredict** — ML disease prediction with SVM/RF/NB  
+- **Mini-ML Health Predictor** — Symptom-based ML model  
+- **SentenceSimilarityExample** — ML.NET semantic similarity  
+
+### 🧩 Recent Projects
 ✔ GFIT (TS/JS)  
 ✔ WMS  
 ✔ HMSChat  
@@ -111,31 +103,38 @@ ML.NET sentence similarity using Model Builder.
 ✔ Portfolio (TS/React)  
 ✔ SampleVector  
 ✔ Clean (JS)  
-…and **38+ repositories** overall.
+
+…Plus **38+ repositories**.
 
 ---
 
-## 🌐 **Socials**
+# 🌈 **Custom Gradient Divider**
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5" />
+</p>
+
+---
+
+# 🌐 **Connect With Me**
+
+<p align="left">
   <a href="https://linkedin.com/in/guptavinayc">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/iamrealvinnu">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-## 🧠 **Fun Fact**
-I build **AI systems**, not AI “demos”.  
-Systems that break → fix → scale → automate.
+# 🧩 **Fun Fact**
+**AI systems don’t impress me unless they solve a real problem.  
+Execution is my superpower.**
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066ff&height=120&section=footer" />
+  <b>If my work inspires you, drop a ⭐ on my repositories!</b>
 </p>
-
-<p align="center">⭐ If my work inspires you, consider giving a star!</p>
