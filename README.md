@@ -64,27 +64,10 @@ I specialize in building **AI systems** across:
 
 ---
 
-# 📊 **GitHub Analytics (LIVE + INTERACTIVE)**
-
-### 🔥 **Realtime Profile Stats**
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iamrealvinnu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrealvinnu&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=iamrealvinnu&style=for-the-badge&color=blueviolet" />
 </p>
 
----
-
-### 🔥 **Active Streaks (Live Updating)**
-<p align="center">
-  <img height="185" src="https://streak-stats.demolab.com/?user=iamrealvinnu&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🟩 **Interactive Contribution Graph (Real GitHub Heatmap Colors)**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamrealvinnu&theme=tokyo-night&area=true&hide_border=true" />
-</p>
 
 ---
 
